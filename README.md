@@ -1,6 +1,7 @@
 # weapp-wechat-zhihu
 
 微信中的知乎--微信小程序 demo // Zhihu in Wechat
+test
 
 ![](images/v_index.png)
 
@@ -11,7 +12,7 @@
 
 #### 功能及使用的组件等
 * 列表式渲染数据
-* 自定义顶部 tabbar
+* 自定义顶部 tabba
 * 下拉刷新
 * 上拉加载更多
 * 轮播图
